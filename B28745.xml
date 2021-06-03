@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for passing the bill for rendring the laws more effectual for prohibiting foreign bone-lace, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28745</idno><idno type="EEBO-CITATION">99882345</idno>
+  <idno type="VID">186219</idno>
+  <idno type="EEBO-PROQUEST">2264202219</idno>
+  
+            <idno type="STC">Wing R537M</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[18]</idno>
+            <idno type="STC">ESTC N22458</idno>
+            <idno type="PROQUEST">ocm99882345</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882345e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186219)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for passing the bill for rendring the laws more effectual for prohibiting foreign bone-lace, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lace industry --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  Commerce --  Europe --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186219:1"/>
+            <head>REASONS Humbly offered for Passing the Bill for rendring the Laws more effectual for Prohibiting Foreign Bone-Lace, <hi>&amp;c.</hi>
+            </head>
+            <p>THe Importers of foreign Lace not thinking it their Interest to appear openly against the Bill, have prevailed with some Shop-keepers to raise objections against some parts of it; to which an answer is here given.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label>
+               <hi>That the Retailer must prove the Goods seized to be</hi> English, <hi>and that tho himself swears he bought them for</hi> English, <hi>and others swear they believe them to be such, yet he shall be lyable to the penalties if the Jury believe them to be Foreign.</hi>
+            </p>
+            <list>
+               <head type="tcpmilestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </head>
+               <item>1.If a Jury believe them to be Foreign, it is true he is subject to the penalties but it is not reasonable to think that a Jury will believe those Laces to be Foreign, which the Retailer proves he bought for <hi>English,</hi> and others skil<g ref="char:EOLhyphen"/>led in the Commodity shall swear they believe to be such.</item>
+               <item>2. The greatest part of the Lace sold is easily distinguishable by the Eye, and it cannot be supposed, that a Seizer will be at the charge of a suit for Lace that there is not good reason to believe is foreign.</item>
+               <item>3. The <hi>onus probandi</hi> has in many other Acts been put upon the person in whose custody the goods are found, and no inconvenience has been found thereby.</item>
+               <item>4. Where goods are not distinguishable by view or taste, the Seizer cannot possibly prove them to be foreign, but the owner knowing how he came by them, may easily prove them to be <hi>English.</hi>
+               </item>
+               <item>5. If any Lace is sold to a Retailer for <hi>English</hi> which proves to be foreign, the Retailer has his remedy by Law against the Seller, and may recover all his damages; and no doubt, in that cafe the first Verdict that the goods are foreign will be a sufficient evidence to another Jury to give damages, because if the Seller can prove them to be <hi>English</hi> at a second tryal, he may and will do so at the first, whatever the Paper against this Bill suggests to the contrary, and the Buyer no doubt for his own sake will give the Seller notice of any seizure.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label>
+               <hi>That if a malicious or beggarly Informer seize</hi> 500 l. <hi>worth of Goods he has</hi> 12 <hi>months time to prosecute, and the Goods must lye all the while.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> The writer of the Paper has clearly mistaken the Bill in this point, for
+<list>
+                  <item>1. The Goods seized (if foreign) must be presently carried to the next Custom-House, and must be prosecuted as soon as the course of the Exchequer Court will admit, or else they will be delivered back, and if any <hi>English</hi> Lace should by mistake be seized as foreign, no doubt but upon the owners making it appear they are such, they will imme<g ref="char:EOLhyphen"/>diately be delivered back, as the practice now is notwithstanding the prohibition, and as it may be continued not<g ref="char:EOLhyphen"/>withstanding any thing in this Bill.</item>
+                  <item>2. The Clause at the latter end of the Bill, that no offence against this Act shall be prosecuted after 12 months, is in favour of the persons offending, that they may not always be liable to Informations in the Attorney Generals name for importing prohibited Goods, but none of the penalties of this Act can be so recovered unless the Lace it self be seized.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>3</label>
+               <hi>The persons that claim any Goods seized must be bound in</hi> 20 l. <hi>to pay the cost if the Goods are condemned.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> This is in other Acts of prohibition, and the reason is, that otherwise Goods may be claimed in the names of per<g ref="char:EOLhyphen"/>sons unknown and of no substance, on purpose to put the Seizer to charge and vexation, and when a recovery is had, the Seizer knows not where to look for his charges, and sometimes the whole value of the Goods seized will not pay the charges.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>4</label>
+               <hi>If the Informer or Seizer will not prosecute the Goods seized, another may, and if none will, the owner shall have them again, making Oath he blieves them to be</hi> English, <hi>and giving an account of whom he bought them, and this the paper thinks not possible to do, at least for what is past.</hi>
+            </p>
+            <list>
+               <head type="tcpmilestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </head>
+               <item>1. That another has liberty to prosecute if the Informer does not, is because otherwise theInformer or Seizer may be bought off for a small matter to desist prosecution.</item>
+               <item>2. There is nothing more easy than for a Shopkeeper to keep an account of whom he Buys his Goods, and by marking them, to know they are the same, and for what is past, there is six months time given by this Act for dispo<g ref="char:EOLhyphen"/>sing what they have, and if any persons have by them any Lace that theydoubt of whom it was bought, they may put that off in the mean time; but these are believed to be only pretences, because the Dealers and Sellers of <hi>Flanders</hi> Lace are all substantial persons.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>5</label>
+               <hi>That the Promoters of this Bill have been concerned in Forerign Lace.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> Admitting it to be so, it cannot appear so very strange, for if there be not an effectual prohibition, Lace-men m be tempted rather to deal in foreign Lace, then be wholly deprived of the benefit of their Trade; but for the good of their Country, they are willing the prohibition be as strict as may be, and whatever ill convenience can be supposed thereby to others they will be the same to them, but they apprehend none.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186219:2"/>
+            <p>AN ANSWER To the Objections against the LACE-BILL.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
